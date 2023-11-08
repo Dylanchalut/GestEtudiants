@@ -8,6 +8,5 @@ namespace GestEtudiants.Classe
 {
     internal class Statistiqus_Etudiants
     {
-
     }
 }

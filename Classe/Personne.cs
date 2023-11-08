@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 
 namespace GestEtudiants.Classe
 {
-     public class Personne
+     class Personne
     {
         //Attribut
         private string nom;
@@ -54,9 +54,5 @@ namespace GestEtudiants.Classe
             return age;
         }
 
-        public int somme(int a,int b)
-        {
-            return a + b;
-        }
     }
 }
